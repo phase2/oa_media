@@ -613,7 +613,7 @@ function oa_media_file_default_displays() {
   $file_display->api_version = 1;
   $file_display->name = 'image__default__file_field_image';
   $file_display->weight = 0;
-  $file_display->status = FALSE;
+  $file_display->status = TRUE;
   $file_display->settings = array(
     'image_style' => 'panopoly_image_original',
     'image_link' => '',
