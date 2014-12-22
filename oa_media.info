@@ -161,7 +161,6 @@ features[variable][] = colorbox_scrolling
 features[variable][] = colorbox_slideshow
 features[variable][] = colorbox_slideshowauto
 features[variable][] = colorbox_slideshowspeed
-features[variable][] = colorbox_style
 features[variable][] = colorbox_text_close
 features[variable][] = colorbox_text_current
 features[variable][] = colorbox_text_next
